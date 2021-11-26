@@ -1,0 +1,10 @@
+firstly ccreating two folders 
+    1 clent* for client side  of app 
+        react redux js frameworks
+1)Creating react app 
+ npx create-react-app ./
+ check to 
+            npm start
+
+
+ 
