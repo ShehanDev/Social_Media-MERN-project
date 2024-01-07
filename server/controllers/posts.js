@@ -20,3 +20,9 @@ export const createPosts = async (req, res) => {
     res.status(409).json({ message: error.message });
   }
 };
+// export const updatePost = async () =>{
+// const {id } = req.params;
+// const {title,message,creator ,selectedFile,tags } =req.body;
+
+// if(!Mongoose.Types)
+// }
